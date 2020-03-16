@@ -1,6 +1,6 @@
 # Docker + Django + React App Tutorial
 
-**Inspiration taken from cfranklin11, added postgres instead of default
+**Inspiration taken from cfranklin11, added postgres instead of default, added djangorestframework and flake 8
 
 Code repo for a series of tutorials on setting up an app with Docker Compose, Django, and Create React App. Each tutorial has its own branch (because it was difficult to get deployments to work from subdirectories).
 
