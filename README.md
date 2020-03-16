@@ -1,5 +1,7 @@
 # Docker + Django + React App Tutorial
 
+**Inspiration taken from cfranklin11, added postgres instead of default
+
 Code repo for a series of tutorials on setting up an app with Docker Compose, Django, and Create React App. Each tutorial has its own branch (because it was difficult to get deployments to work from subdirectories).
 
 - Part One: [Creating an app with Docker Compose, Django, and Create React App](https://dev.to/englishcraig/creating-an-app-with-docker-compose-django-and-create-react-app-31lf): [`development`](https://github.com/cfranklin11/docker-django-rea/tree/development)
